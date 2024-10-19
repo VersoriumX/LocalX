@@ -14,10 +14,10 @@
   "keywords": ["server", "file", "network", "local"],
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.21.1"
   },
   "devDependencies": {
-    "pkg": "^5.7.0"
+    "pkg": "^5.8.1"
   },
 
   "bin": "main.js",
